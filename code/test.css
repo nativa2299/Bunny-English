@@ -100,7 +100,7 @@ img {
     color: rgb(243, 155, 41);
     @media (orientation: portrait){
         font-size: 150px;
-        margin: 20px ;
+        margin: 20px;
     }
 }
 
