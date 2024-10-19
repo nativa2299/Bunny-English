@@ -99,7 +99,7 @@ img {
 .header-container_text>h1{
     color: rgb(243, 155, 41);
     @media (orientation: portrait){
-        font-size: 150px;
+        font-size: 50px;
         margin: 20px;
     }
 }
@@ -107,7 +107,7 @@ img {
 .header-container_text {
     font-size: 30px;
     @media (orientation: portrait){
-        font-size: 60px;
+        font-size: 30px;
 
     }
 }
